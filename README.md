@@ -11,3 +11,9 @@ Soy Ingeniero de Sistemas, en la actualidad estoy siguiendo una mestría en Cien
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Contactos
+📞🪧🖇️📧✉️
+
+## Lenguajes
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-green">
