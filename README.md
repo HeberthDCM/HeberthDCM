@@ -15,5 +15,8 @@ Soy Ingeniero de Sistemas, en la actualidad estoy siguiendo una mestría en Cien
 📞🪧🖇️📧✉️
 
 ## Lenguajes
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%23-green">
+![Static Badge](https://img.shields.io/badge/C%2B%2B-Blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/C%23-Yellow?style=plastic)
+![Static Badge](https://img.shields.io/badge/Python-Green?style=plastic)
+![Static Badge](https://img.shields.io/badge/VB-Red?style=plastic)
+
