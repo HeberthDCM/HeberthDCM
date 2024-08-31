@@ -1,10 +1,10 @@
-## ‼️Hola soy Heberth del Carpio‼️ 👋
+ ## ‼️Hola soy Heberth del Carpio‼️ 👋
 
 <!--
 **HeberthDCM/HeberthDCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Soy Ingeniero de Sistemas, en la actualidad estoy siguiendo una mestría en Ciencias de la Computación
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
